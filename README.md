@@ -19,7 +19,7 @@ Fonctionnalités clés :
 • Étudiants en première et deuxième année de médecine.
 • Instituts de formation en soins infirmiers (IFSI).
 • Écoles de chirurgie pour la préparation mentale.
-
+Nos choix technique 
 
  Nos limites techniques
 Initialement, nous souhaitions pousser l'immersion encore plus loin en ajoutant deux fonctionnalités majeures qui n'ont malheureusement pas pu être intégrées :
