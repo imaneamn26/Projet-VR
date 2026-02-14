@@ -19,12 +19,20 @@ Fonctionnalités clés :
 • Étudiants en première et deuxième année de médecine.
 • Instituts de formation en soins infirmiers (IFSI).
 • Écoles de chirurgie pour la préparation mentale.
-Nos choix technique 
+Nos choix technique (Delightex,Coblocks)
 
- Nos limites techniques(Delightex,Coblocks) 
+ Nos limites techniques 
 
 
 Initialement, nous souhaitions pousser l'immersion encore plus loin en ajoutant deux fonctionnalités majeures qui n'ont malheureusement pas pu être intégrées :
 • Le système de scoring : Nous voulions transformer la simulation en un véritable jeu pédagogique où l'étudiant recevait une note finale basée sur sa précision.
 • L'interaction tactile complète : Notre objectif était de permettre à l'apprenti de toucher et de manipuler chaque élément du bloc, mais la complexité technique des collisions et du retour haptique a limité ces interactions.
 [Accéder au projet CoSpaces](https://edu.delightex.com/Studio/Space/oHNPyCWmrU6DSR0W)
+MEMBRE DU GROUPE
+AMINOU Imane
+TALL Babou Amadou
+TATIOTSOP Miguel
+NDEYE Sokhna Ndaw
+KANE Elimane
+SOSSOUKPE Barack Oren
+LO El hadj Mamadou
